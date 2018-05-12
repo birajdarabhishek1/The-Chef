@@ -3,6 +3,7 @@ package 'tree' do
 end
 
 package 'ntp' 
+package 'nano'
 
 package 'vim-enhanced'
 
